@@ -1,3 +1,5 @@
+package models;
+
 public class Maquinario {
 
     private String nome;
