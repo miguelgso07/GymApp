@@ -1,4 +1,4 @@
-public class Maquinarios {
+public class Maquinario {
 
     private String nome;
     private String categoria;
@@ -6,7 +6,7 @@ public class Maquinarios {
     private boolean disponivel;
     private int quantidade;
 
-    public Maquinarios(String nome, String categoria, String descricao,
+    public Maquinario(String nome, String categoria, String descricao,
                        boolean disponivel, int quantidade) {
 
         this.nome = nome;
