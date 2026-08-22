@@ -39,3 +39,4 @@ public class Main {
         System.out.println("Quantidade: " + maquina1.getQuantidade());
     }
 }
+System.out.println("Teste realizado pelo notebook!");
