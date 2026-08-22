@@ -37,6 +37,7 @@ public class Main {
         System.out.println("Descrição: " + maquina1.getDescricao());
         System.out.println("Disponível: " + maquina1.isDisponivel());
         System.out.println("Quantidade: " + maquina1.getQuantidade());
+        System.out.println("Teste realizado pelo notebook!");
+
     }
 }
-System.out.println("Teste realizado pelo notebook!");
